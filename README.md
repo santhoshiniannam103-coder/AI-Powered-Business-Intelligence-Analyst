@@ -27,7 +27,6 @@ The project combines **Python, Power BI, DAX, and Gemini AI** to perform data cl
 * **DAX**
 * **Gemini AI**
 * **Google Colab**
-* **Jupyter Notebook**
 
 ## 🔄 Project Workflow
 
